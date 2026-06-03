@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou Nícolas Porto 👋
 
-<!--
-**Nikamarinha/Nikamarinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do 2º ano do curso técnico em Análise e Desenvolvimento de Sistemas (ADS), com foco em desenvolvimento de software, banco de dados e análise de sistemas.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia, sempre busco aprimorar minhas habilidades e aprender novas tecnologias. Gosto de transformar ideias em projetos práticos, aplicando boas práticas de programação e desenvolvimento.
+
+* 💡 Interesse em desenvolvimento de software e arquitetura de sistemas
+* 📚 Aprendizado contínuo e evolução técnica
+* 🛠️ Desenvolvimento de projetos para ampliar experiência prática
+* 🤝 Aberto a oportunidades de colaboração e novos desafios
+
+## 🛠️ Tecnologias
+
+* JavaScript
+* HTML5 & CSS3
+* PHP
+* SQL
+* C#
+* Git & GitHub
+
+## 📈 Atualmente estudando
+
+* Arquitetura de Software
+* Desenvolvimento Full Stack
+* Boas Práticas de Programação
+* Estruturas e padrões de desenvolvimento
+
+## 🎯 Objetivo
+
+Construir uma carreira sólida na área de tecnologia, desenvolvendo soluções eficientes, escaláveis e de qualidade, enquanto amplio meus conhecimentos e experiências profissionais.
+
+## 📫 Contato
+
+* LinkedIn: seu-linkedin
+* E-mail: seu-email
