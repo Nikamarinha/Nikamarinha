@@ -20,18 +20,10 @@ Sou apaixonado por tecnologia, sempre busco aprimorar minhas habilidades e apren
 * C#
 * Git & GitHub
 
-## 📈 Atualmente estudando
-
-* Arquitetura de Software
-* Desenvolvimento Full Stack
-* Boas Práticas de Programação
-* Estruturas e padrões de desenvolvimento
-
 ## 🎯 Objetivo
 
 Construir uma carreira sólida na área de tecnologia, desenvolvendo soluções eficientes, escaláveis e de qualidade, enquanto amplio meus conhecimentos e experiências profissionais.
 
 ## 📫 Contato
 
-* LinkedIn: seu-linkedin
-* E-mail: seu-email
+...
